@@ -1,4 +1,4 @@
-#Python-Firebase-Flask login/register web-app
+# Python-Firebase-Flask login/register web-app
 
 ## Features
 1) Login/Sign up - Hosted on firebase
